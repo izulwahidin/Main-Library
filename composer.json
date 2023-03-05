@@ -1,0 +1,17 @@
+{
+    "name": "wahidin/main",
+    "description": "Main class for Wahidin vendors",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Wahidin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wahidin",
+            "email": "izulwahidin@my.id"
+        }
+    ],
+    "require": {}
+}
