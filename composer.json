@@ -13,6 +13,6 @@
             "email": "izulwahidin@my.id"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "stable"
+
 }
